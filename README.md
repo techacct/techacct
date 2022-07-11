@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techacct
-- 👀 I’m interested in  Data Analysis|Power BI|Python
-- 🌱 I’m currently learning Data Analysis|Engineer|Power BI|Python
-- 💞️ I’m looking to collaborate on Data Analysis|Power BI|Python
+- 👀 I’m interested in Data Analysis|Data Engineering |Power BI|Python|SQL|Data Engineering tools
+- 🌱 I’m currently learning Data Analysis|Data Engineering |Power BI|Python|SQL|Data Engineering tools
+- 💞️ I’m looking to collaborate on Data Analysis|Data Engineering |Power BI|Python|SQL|Data Engineering tools
 - 📫 How to reach me - ademolaoladapo@gmail.com
 
 <!---
